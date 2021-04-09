@@ -71,6 +71,8 @@
         - Typescript
         - Javascript
         - Python
+    
+    - Gestão de equipes
         
 - ⚡ Formação **Sou Técnico em desenvolvimento de sistemas, e estou cursando Licenciatura em Computação na UFBA**
 
