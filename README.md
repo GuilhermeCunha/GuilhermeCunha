@@ -1,10 +1,11 @@
-<h1 align="center">Olá 👋, sou Guilherme</h1>
+<h1 align="center">Olá 👋, sou Guilherme Cunha</h1>
 <h3 align="center">Apaixonado por programação e tecnologia</h3>
 
 - 🌱 Estudando sobre **Micro serviços e serverless functions, testes**
+<!-- 
 - 👯 Desenvolvendo o projeto [Emails Temporários](https://emailstemporarios.com.br/)
-# - 👨‍💻 Veja alguns dos meus projetos em [https://github.com/GuilhermeCunha?tab=repositories](https://github.com/GuilhermeCunha?tab=repositories)
-
+- 👨‍💻 Veja alguns dos meus projetos em [https://github.com/GuilhermeCunha?tab=repositories](https://github.com/GuilhermeCunha?tab=repositories)
+-->
 - 💬 Pode me perguntar sobre
     
     - Backend (NodeJs)
