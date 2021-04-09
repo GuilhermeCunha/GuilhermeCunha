@@ -78,10 +78,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermecunha&show_icons=true" alt="guilhermecunha"/>
 </p>
-
-<p>&nbsp;</p>
-<p align="center">
-    <a href="https://linkedin.com/in/guilherme-cunha-a91123146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guilherme-cunha-a91123146" height="30" width="30" /></a>
-    <a href="https://stackoverflow.com/users/11457369" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11457369" height="30" width="30" /></a>
-    <a href="https://instagram.com/guilhermsilvac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guilhermsilvac" height="30" width="30" /></a>
-</p>
