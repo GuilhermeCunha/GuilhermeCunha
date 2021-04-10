@@ -21,9 +21,10 @@
         - Logs
         - ORM's (Mongoose, TypeORM, Sequelize)
         - Mensageria (RabbitMQ)
+        - Socket
         - ...
     
-    - Frontend (React e ReactNative)
+    - Frontend (React e React Native e Electron)
         - NextJs
         - Tailwind
         - Componentes funcionais e em classe
@@ -33,6 +34,7 @@
         - Tratamento de erros
         - Logs
         - SEO
+        - Socket
         - ...
     
     - Infraestrutura
