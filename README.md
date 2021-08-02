@@ -82,4 +82,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermecunha&show_icons=true" alt="guilhermecunha"/>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCunha&layout=compact&theme=midnight-purple" alt="Guilherme Cunha most used languages" />
