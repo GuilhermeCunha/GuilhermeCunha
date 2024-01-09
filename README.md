@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Guilherme Cunha</h1>
 <h3 align="center">Passionate about programming and technology</h3>
 
-- 🌱 Working with **Microservices and serverless functions, testing**
+- 🌱 Working with **NextJS, testing, and many other things**
 <!-- 
 - 👨‍💻 Check out some of my projects at [https://github.com/GuilhermeCunha?tab=repositories](https://github.com/GuilhermeCunha?tab=repositories)
 -->
-- 📫 To get in touch, email me at **guiscunha@gmail.com** or message me on WhatsApp at **(71) 99174-7858**
+- 📫 To get in touch, email me at **guiscunha@gmail.com** or message me on WhatsApp at **(71) 99271-1726**
 - 💬 You can ask me about
     
     - Backend (Node.js)
@@ -26,6 +26,7 @@
     - Frontend (React, React Native, and Electron)
         - Next.js
         - Tailwind
+        - State Management (React Context, Redux, XState)
         - Functional and class components
         - Hooks
         - API consumption
@@ -33,7 +34,7 @@
         - Error handling
         - Logging
         - SEO
-        - Socket
+        - Socket (SockerIO)
         - ...
     
     - Infrastructure
@@ -49,16 +50,18 @@
     - Git
         - Gitflow
         - Conflict resolution
-        - Branch management (Develop, Staging, Master)
+        - Branch management
     
     - Databases
-        - MongoDB
         - MySQL
-        - PostgreSQL
+        - PostgreSQL 
+        - MongoDB
+        - DynamoDB
     
     - Authentication/Authorization Systems
-        - JWT
+        - AWS Cognito 
         - Firebase Authentication
+        - JWT
         - Access levels
     
     - AI
@@ -74,8 +77,6 @@
         - Python
     
     - Team Management
-        
-- ⚡ Education **I'm a Technical Systems Development Technician, currently pursuing a Bachelor's degree in Computer Science at UFBA**
 
 <p>&nbsp;</p>
 <p align="center">
