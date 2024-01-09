@@ -18,8 +18,8 @@
         - Error handling
         - Security
         - Logging
-        - ORM's (Mongoose, TypeORM, Sequelize)
-        - Messaging (RabbitMQ)
+        - ORM's (Prisma. Mongoose, TypeORM, Sequelize)
+        - Messaging (SNS, SQS, RabbitMQ)
         - Socket
         - ...
     
@@ -53,7 +53,7 @@
         - Branch management
     
     - Databases
-        - MySQL
+        - MySQL (regular and NDB)
         - PostgreSQL 
         - MongoDB
         - DynamoDB
