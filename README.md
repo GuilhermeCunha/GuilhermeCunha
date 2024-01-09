@@ -1,81 +1,81 @@
-<h1 align="center">Olá 👋, sou Guilherme Cunha</h1>
-<h3 align="center">Apaixonado por programação e tecnologia</h3>
+<h1 align="center">Hello 👋, I'm Guilherme Cunha</h1>
+<h3 align="center">Passionate about programming and technology</h3>
 
-- 🌱 Trabalhando com **Micro serviços e serverless functions, testes**
+- 🌱 Working with **Microservices and serverless functions, testing**
 <!-- 
-- 👨‍💻 Veja alguns dos meus projetos em [https://github.com/GuilhermeCunha?tab=repositories](https://github.com/GuilhermeCunha?tab=repositories)
+- 👨‍💻 Check out some of my projects at [https://github.com/GuilhermeCunha?tab=repositories](https://github.com/GuilhermeCunha?tab=repositories)
 -->
-- 📫 Para entrar em contato, **guiscunha@gmail.com** ou pelo whatsapp **(71) 99174-7858**
-- 💬 Pode me perguntar sobre
+- 📫 To get in touch, email me at **guiscunha@gmail.com** or message me on WhatsApp at **(71) 99174-7858**
+- 💬 You can ask me about
     
-    - Backend (NodeJs)
-        - NestJs
-        - NextJs (Serverless Functions)
-        - Api's REST
-        - Api's GraphQL
-        - Validação de entradas
-        - Autentificação com niveis de acesso
-        - Tratamento de erros
-        - Segurança
-        - Logs
+    - Backend (Node.js)
+        - Nest.js
+        - Next.js (Serverless Functions)
+        - REST APIs
+        - GraphQL APIs
+        - Input validation
+        - Access level authentication
+        - Error handling
+        - Security
+        - Logging
         - ORM's (Mongoose, TypeORM, Sequelize)
-        - Mensageria (RabbitMQ)
+        - Messaging (RabbitMQ)
         - Socket
         - ...
     
-    - Frontend (React e React Native e Electron)
-        - NextJs
+    - Frontend (React, React Native, and Electron)
+        - Next.js
         - Tailwind
-        - Componentes funcionais e em classe
+        - Functional and class components
         - Hooks
-        - Consumo de Api's
-        - Boas práticas para performance
-        - Tratamento de erros
-        - Logs
+        - API consumption
+        - Best practices for performance
+        - Error handling
+        - Logging
         - SEO
         - Socket
         - ...
     
-    - Infraestrutura
+    - Infrastructure
         - AWS
-        - Hospedagem de imagens (AWS S3)
-        - Sitemas escaláveis (AWS Beanstalk)
-        - Hospedagem de aplicações (AWS Ligthsail e AWS EC2)
-        - Hospedagem de sites (AWS Amplify, Vercel, Heroku, ...)
-        - Configuração de DNS (Cloudflare, ...)
-        - Configuração de SSL
-        - Hospedagem de aplicações e uma máquina linux crua (Hospedagem do zero)
+        - Image hosting (AWS S3)
+        - Scalable systems (AWS Beanstalk)
+        - Application hosting (AWS Lightsail and AWS EC2)
+        - Website hosting (AWS Amplify, Vercel, Heroku, ...)
+        - DNS configuration (Cloudflare, ...)
+        - SSL configuration
+        - Hosting applications on a bare Linux machine (Zero to Hosting)
     
     - Git
         - Gitflow
-        - Tratamento de conflitos
-        - Gerenciamentode branchs (Develop, Staging, Master)
+        - Conflict resolution
+        - Branch management (Develop, Staging, Master)
     
-    - Bancos de dados
+    - Databases
         - MongoDB
         - MySQL
-        - Postgress
+        - PostgreSQL
     
-    - Sistemas com autentificação/autorização
+    - Authentication/Authorization Systems
         - JWT
         - Firebase Authentication
-        - Níveis de acesso
+        - Access levels
     
-    - IA
-        - Regressão
-        - Classificação
+    - AI
+        - Regression
+        - Classification
         - Tensorflow
         - PyTorch
         - ...
     
-    - Linguagens de programção
-        - Typescript
-        - Javascript
+    - Programming Languages
+        - TypeScript
+        - JavaScript
         - Python
     
-    - Gestão de equipes
+    - Team Management
         
-- ⚡ Formação **Sou Técnico em desenvolvimento de sistemas, e estou cursando Licenciatura em Computação na UFBA**
+- ⚡ Education **I'm a Technical Systems Development Technician, currently pursuing a Bachelor's degree in Computer Science at UFBA**
 
 <p>&nbsp;</p>
 <p align="center">
